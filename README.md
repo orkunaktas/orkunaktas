@@ -1,4 +1,5 @@
 ![anakin](https://user-images.githubusercontent.com/105307448/200091456-e16a21f1-5df5-4720-9364-128668b8943e.gif)
+![anakin](https://user-images.githubusercontent.com/105307448/200091456-e16a21f1-5df5-4720-9364-128668b8943e.gif)
 <h1 align="center">Hi 👋, I'm Orkun Aktas</h1>
 
 <h3 align="center">ım a student</h3>

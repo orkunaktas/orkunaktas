@@ -1,4 +1,6 @@
+![anakin](https://user-images.githubusercontent.com/105307448/200091456-e16a21f1-5df5-4720-9364-128668b8943e.gif)
 <h1 align="center">Hi 👋, I'm Orkun Aktas</h1>
+
 <h3 align="center">ım a student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=orkunaktas&label=Profile%20views&color=0e75b6&style=flat" alt="orkunaktas" /> </p>
@@ -13,7 +15,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/orkun-akta%c5%9f-217b51255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/orkun-akta%c5%9f-217b51255/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/quigonskywalker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="quigonskywalker" height="30" width="40" /></a>
 </p>
-![anakin](https://user-images.githubusercontent.com/105307448/200091568-f0b57edd-4d67-4fa9-bc2f-8c93da583491.gif)
+
 
 
 <h3 align="left">Languages and Tools:</h3>

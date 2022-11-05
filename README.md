@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=orkunaktas&label=Profile%20views&color=0e75b6&style=flat" alt="orkunaktas" /> </p>
 
 - 🌱 I’m currently learning **c#**
+![anakin](https://user-images.githubusercontent.com/105307448/200091456-e16a21f1-5df5-4720-9364-128668b8943e.gif)
 
 - 💬 Ask me about **c#**
 

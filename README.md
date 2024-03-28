@@ -1,6 +1,10 @@
+<br clear="both">
+
 <h1 align="left">Hi! im Orkun</h1>
 
 ###
+
+<br clear="both">
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=orkunaktas&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false&custom_title=GitHub%20Stats" height="163" alt="stats graph"  />
@@ -35,4 +39,3 @@
 <img src="https://raw.githubusercontent.com/orkunaktas/orkunaktas/output/snake.svg" alt="Snake animation" />
 
 ###
-

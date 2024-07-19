@@ -3,7 +3,7 @@
 <div align="left">
   <div style="display: flex; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=orkunaktas&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false&custom_title=GitHub%20Stats" height="180" alt="stats graph" />
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajF4ZHo2NmhwN2wwM20zMDVrbXV3Mm5nMWJkeGV5YmFxZXYzYmhqbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3fZK7BgnNHSKpp4c/giphy.webp" height="180" alt="GIF" />
+    <img src="https://y.yarn.co/2ab8b38b-6575-48c1-8cb4-e04616190582_text.gif" height="180" alt="GIF" />
   </div>
   <div style="display: flex; align-items: center;">
     <img src="https://streak-stats.demolab.com?user=orkunaktas&locale=en&mode=daily&theme=algolia&hide_border=false&border_radius=5" height="180" alt="streak graph" />

@@ -3,15 +3,21 @@
 <div align="left">
   <div style="display: flex; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=orkunaktas&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false&custom_title=GitHub%20Stats" height="180" alt="stats graph" />
-    <div class="tenor-gif-embed" data-postid="10607636" data-share-method="host" data-aspect-ratio="2.03252" data-width="180"><a href="https://tenor.com/view/senator-palpatine-anakin-skywalker-phantom-menace-gif-10607636">Senator Palpatine Anakin Skywalker GIF</a>from <a href="https://tenor.com/search/senator+palpatine-gifs">Senator Palpatine GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+    <div style="position: relative; width: 180px; height: 101px; padding-bottom: 0;">
+      <iframe style="position: absolute; width: 100%; height: 100%;" src="https://memes.getyarn.io/yarn-clip/1bf4f0a9-5ba2-46b2-91e5-ee2256bca74d/embed?autoplay=false&responsive=true" frameborder="0"></iframe>
+    </div>
   </div>
   <div style="display: flex; align-items: center;">
     <img src="https://streak-stats.demolab.com?user=orkunaktas&locale=en&mode=daily&theme=algolia&hide_border=false&border_radius=5" height="180" alt="streak graph" />
-    <div class="tenor-gif-embed" data-postid="10607636" data-share-method="host" data-aspect-ratio="2.03252" data-width="180"><a href="https://tenor.com/view/senator-palpatine-anakin-skywalker-phantom-menace-gif-10607636">Senator Palpatine Anakin Skywalker GIF</a>from <a href="https://tenor.com/search/senator+palpatine-gifs">Senator Palpatine GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+    <div style="position: relative; width: 180px; height: 101px; padding-bottom: 0;">
+      <iframe style="position: absolute; width: 100%; height: 100%;" src="https://memes.getyarn.io/yarn-clip/1bf4f0a9-5ba2-46b2-91e5-ee2256bca74d/embed?autoplay=false&responsive=true" frameborder="0"></iframe>
+    </div>
   </div>
   <div style="display: flex; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=orkunaktas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=algolia&hide_border=false" height="180" alt="languages graph" />
-    <div class="tenor-gif-embed" data-postid="10607636" data-share-method="host" data-aspect-ratio="2.03252" data-width="180"><a href="https://tenor.com/view/senator-palpatine-anakin-skywalker-phantom-menace-gif-10607636">Senator Palpatine Anakin Skywalker GIF</a>from <a href="https://tenor.com/search/senator+palpatine-gifs">Senator Palpatine GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+    <div style="position: relative; width: 180px; height: 101px; padding-bottom: 0;">
+      <iframe style="position: absolute; width: 100%; height: 100%;" src="https://memes.getyarn.io/yarn-clip/1bf4f0a9-5ba2-46b2-91e5-ee2256bca74d/embed?autoplay=false&responsive=true" frameborder="0"></iframe>
+    </div>
   </div>
 </div>
 

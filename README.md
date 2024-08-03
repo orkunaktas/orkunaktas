@@ -1,18 +1,19 @@
 <h1 align="left">Hi! I'm Orkun</h1>
 
 <div align="left">
+  <!-- Üst Satır -->
   <div style="display: flex; align-items: center;">
     <!-- GitHub Stats -->
-    <img src="https://github-readme-stats.vercel.app/api?username=orkunaktas&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&custom_title=GitHub%20Stats" height="180" width="400" alt="stats graph" />
-    <img src="https://y.yarn.co/1bf4f0a9-5ba2-46b2-91e5-ee2256bca74d_text.gif" height="180" width="400" alt="GIF" />
+    <img src="https://github-readme-stats.vercel.app/api?username=orkunaktas&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&custom_title=GitHub%20Stats" height="210" width="400" alt="stats graph" />
+    <img src="https://y.yarn.co/1bf4f0a9-5ba2-46b2-91e5-ee2256bca74d_text.gif" height="210" width="400" alt="GIF" />
   </div>
+  
+  <!-- Alt Satır -->
   <div style="display: flex; align-items: center;">
     <!-- Streak Stats -->
-    <img src="https://streak-stats.demolab.com?user=orkunaktas&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="180" width="400" alt="streak graph" />
-  </div>
-  <div style="display: flex; align-items: center;">
+    <img src="https://streak-stats.demolab.com?user=orkunaktas&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="210" width="400" alt="streak graph" />
     <!-- Top Languages -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=orkunaktas&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=6&theme=dark&hide_border=false" height="180" width="400" alt="languages graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=orkunaktas&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=6&theme=dark&hide_border=false" height="210" width="400" alt="languages graph" />
   </div>
 </div>
 

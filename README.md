@@ -2,14 +2,17 @@
 
 <div align="left">
   <div style="display: flex; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=orkunaktas&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false&custom_title=GitHub%20Stats" height="180" alt="stats graph" />
+    <!-- GitHub Stats -->
+    <img src="https://github-readme-stats.vercel.app/api?username=orkunaktas&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&custom_title=GitHub%20Stats" height="180" alt="stats graph" />
     <img src="https://y.yarn.co/1bf4f0a9-5ba2-46b2-91e5-ee2256bca74d_text.gif" height="180" alt="GIF" />
   </div>
   <div style="display: flex; align-items: center;">
-    <img src="https://streak-stats.demolab.com?user=orkunaktas&locale=en&mode=daily&theme=algolia&hide_border=false&border_radius=5" height="180" alt="streak graph" />
+    <!-- Streak Stats -->
+    <img src="https://streak-stats.demolab.com?user=orkunaktas&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="180" alt="streak graph" />
   </div>
   <div style="display: flex; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=orkunaktas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=algolia&hide_border=false" height="180" alt="languages graph" />
+    <!-- Top Languages -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=orkunaktas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="180" alt="languages graph" />
   </div>
 </div>
 

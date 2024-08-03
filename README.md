@@ -13,7 +13,7 @@
   </div>
 </div>
 
-<div align="left" style="margin-top: 20px;">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="43" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="43" alt="csharp logo" />
@@ -31,9 +31,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="43" alt="figma logo" />
 </div>
 
-<div align="center" style="margin-top: 40px; position: relative;">
-  <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0, 0, 0, 0.3); border-radius: 10px; display: flex; align-items: center; justify-content: center;">
-    <p style="color: #fff; font-size: 18px; text-align: center; z-index: 1;">Keep Coding, Keep Growing!</p>
-  </div>
-  <img src="https://raw.githubusercontent.com/orkunaktas/orkunaktas/output/snake.svg" alt="Snake animation" style="border-radius: 10px;" />
-</div>
+<img src="https://raw.githubusercontent.com/orkunaktas/orkunaktas/output/snake.svg" alt="Snake animation" />

@@ -1,37 +1,50 @@
-<h1 align="left">Hi! I'm Orkun</h1>
+<h1 align="center">👋 Welcome to My GitHub Profile!</h1>
 
-<div align="left">
-  <div style="display: flex; align-items: center;">
-    <!-- GitHub Stats -->
-    <img src="https://github-readme-stats.vercel.app/api?username=orkunaktas&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&custom_title=GitHub%20Stats" height="180" alt="stats graph" />
-    <img src="https://y.yarn.co/1bf4f0a9-5ba2-46b2-91e5-ee2256bca74d_text.gif" height="180" alt="GIF" />
-  </div>
-  <div style="display: flex; align-items: center;">
-    <!-- Streak Stats -->
-    <img src="https://streak-stats.demolab.com?user=orkunaktas&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="180" alt="streak graph" />
-  </div>
-  <div style="display: flex; align-items: center;">
-    <!-- Top Languages -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=orkunaktas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="180" alt="languages graph" />
-  </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="200"/>
 </div>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="43" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="43" alt="csharp logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="43" alt="microsoftsqlserver logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="43" alt="numpy logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="43" alt="pandas logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="43" alt="matlab logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="43" alt="jupyter logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="43" alt="figma logo" />
+<h2 align="center">I'm Orkun - Data Scientist & Developer</h2>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=orkunaktas&style=flat-square&color=blue" alt="Profile Views"/>
+</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=orkunaktas&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=orkunaktas&theme=radical" height="170"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/orkunaktas/orkunaktas/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orkunaktas&layout=compact&theme=radical" height="170"/>
+</div>
+
+<h3 align="center">🛠️ Languages and Tools</h3>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</div>
+
+<h3 align="center">🌟 My Contributions</h3>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/orkunaktas/orkunaktas/output/snake.svg" alt="Snake animation"/>
+</div>
+
+<h3 align="center">📫 Connect with me</h3>
+
+<div align="center">
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>

@@ -37,11 +37,12 @@
 <div align="left">
   <h2>About Me</h2>
   <ul>
-    <li>🚀 Passionate about <b>financial analysis</b>, <b>Python for finance</b>, and <b>algorithmic trading</b>.</li>
-    <li>📊 Enthusiast in <b>sports analytics</b> and leveraging data for insights.</li>
-    <li>🔍 Exploring the intersection of <b>data science</b> and <b>finance</b>.</li>
-    <li>💻 Skilled in Python, SQL, and tools like Pandas, NumPy, and Jupyter.</li>
+    <li>🚀 I enjoy diving into <b>financial analysis</b> and using <b>Python</b> to uncover trends and insights in finance.</li>
+    <li>📊 I'm passionate about <b>sports analytics</b>, turning raw data into meaningful stories and strategies.</li>
+    <li>🔍 I love exploring how <b>data science</b> can transform the world of <b>finance</b>.</li>
+    <li>💻 My toolbox includes Python, SQL, and libraries like Pandas, NumPy, and Jupyter, which I use daily to solve complex problems.</li>
   </ul>
 </div>
 
 <img src="https://raw.githubusercontent.com/orkunaktas/orkunaktas/output/snake.svg" alt="Snake animation" />
+

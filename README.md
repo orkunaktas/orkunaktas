@@ -1,7 +1,7 @@
 <h1 align="left">Hi! I'm Orkun</h1>
 
 <div align="left">
-  <div style="display: grid; grid-template-columns: repeat(2, 2fr); grid-gap: 20px; width: 800px; height: 600px;">
+  <div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 20px; width: 800px; height: 600px;">
     <!-- GitHub Stats -->
     <div style="border: 2px solid #ccc; padding: 10px;">
       <img src="https://github-readme-stats.vercel.app/api?username=orkunaktas&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&custom_title=GitHub%20Stats" width="100%" height="100%" alt="stats graph" />
@@ -10,6 +10,9 @@
     <div style="border: 2px solid #ccc; padding: 10px;">
       <img src="https://streak-stats.demolab.com?user=orkunaktas&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" width="100%" height="100%" alt="streak graph" />
     </div>
+  </div>
+
+  <div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 20px; width: 800px; height: 600px; margin-top: 20px;">
     <!-- GIF -->
     <div style="border: 2px solid #ccc; padding: 10px;">
       <img src="https://y.yarn.co/1bf4f0a9-5ba2-46b2-91e5-ee2256bca74d_text.gif" width="100%" height="100%" alt="GIF" />

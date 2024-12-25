@@ -1,6 +1,16 @@
 <h1 align="left">Hi! I'm Orkun</h1>
 
 <div align="left">
+  <h2>About Me</h2>
+  <ul>
+    <li>🚀 I enjoy diving into <b>financial analysis</b> and using <b>Python</b> to uncover trends and insights in finance.</li>
+    <li>📊 I'm passionate about <b>sports analytics</b>, turning raw data into meaningful stories and strategies.</li>
+    <li>🔍 I love exploring how <b>data science</b> can transform the world of <b>finance</b>.</li>
+    <li>💻 My toolbox includes Python, SQL, and libraries like Pandas, NumPy, and Jupyter, which I use daily to solve complex problems.</li>
+  </ul>
+</div>
+
+<div align="left">
   <div style="display: flex; align-items: center;">
     <!-- GitHub Stats -->
     <img src="https://github-readme-stats.vercel.app/api?username=orkunaktas&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&custom_title=GitHub%20Stats" height="180" alt="stats graph" />
@@ -34,15 +44,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="43" alt="figma logo" />
 </div>
 
-<div align="left">
-  <h2>About Me</h2>
-  <ul>
-    <li>🚀 I enjoy diving into <b>financial analysis</b> and using <b>Python</b> to uncover trends and insights in finance.</li>
-    <li>📊 I'm passionate about <b>sports analytics</b>, turning raw data into meaningful stories and strategies.</li>
-    <li>🔍 I love exploring how <b>data science</b> can transform the world of <b>finance</b>.</li>
-    <li>💻 My toolbox includes Python, SQL, and libraries like Pandas, NumPy, and Jupyter, which I use daily to solve complex problems.</li>
-  </ul>
-</div>
+
 
 <img src="https://raw.githubusercontent.com/orkunaktas/orkunaktas/output/snake.svg" alt="Snake animation" />
 

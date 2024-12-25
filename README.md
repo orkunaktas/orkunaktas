@@ -1,18 +1,15 @@
 <h1 align="left">Hi! I'm Orkun</h1>
 
 <div align="left">
-  <div style="display: flex; align-items: center;">
+  <div style="display: flex; flex-wrap: wrap; gap: 20px;">
     <!-- GitHub Stats -->
-    <img src="https://github-readme-stats.vercel.app/api?username=orkunaktas&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&custom_title=GitHub%20Stats" height="180" alt="stats graph" />
-    <img src="https://y.yarn.co/1bf4f0a9-5ba2-46b2-91e5-ee2256bca74d_text.gif" height="180" alt="GIF" />
-  </div>
-  <div style="display: flex; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=orkunaktas&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&custom_title=GitHub%20Stats" width="200" height="600" alt="stats graph" />
     <!-- Streak Stats -->
-    <img src="https://streak-stats.demolab.com?user=orkunaktas&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="180" alt="streak graph" />
-  </div>
-  <div style="display: flex; align-items: center;">
+    <img src="https://streak-stats.demolab.com?user=orkunaktas&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" width="200" height="600" alt="streak graph" />
+    <!-- GIF -->
+    <img src="https://y.yarn.co/1bf4f0a9-5ba2-46b2-91e5-ee2256bca74d_text.gif" width="200" height="600" alt="GIF" />
     <!-- Top Languages -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=orkunaktas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="180" alt="languages graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=orkunaktas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" width="200" height="600" alt="languages graph" />
   </div>
 </div>
 
@@ -35,4 +32,3 @@
 </div>
 
 <img src="https://raw.githubusercontent.com/orkunaktas/orkunaktas/output/snake.svg" alt="Snake animation" />
-

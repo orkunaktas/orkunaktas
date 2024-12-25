@@ -1,44 +1,37 @@
-# Hi there, I'm [Your Name] 👋
+<h1 align="left">Hi! I'm Orkun</h1>
 
-## About Me
-I'm a passionate software developer focused on creating impactful solutions. Welcome to my GitHub profile!
+<div align="left">
+  <div style="display: flex; align-items: center;">
+    <!-- GitHub Stats -->
+    <img src="https://github-readme-stats.vercel.app/api?username=orkunaktas&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&custom_title=GitHub%20Stats" height="180" alt="stats graph" />
+    <img src="https://y.yarn.co/1bf4f0a9-5ba2-46b2-91e5-ee2256bca74d_text.gif" height="180" alt="GIF" />
+  </div>
+  <div style="display: flex; align-items: center;">
+    <!-- Streak Stats -->
+    <img src="https://streak-stats.demolab.com?user=orkunaktas&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="180" alt="streak graph" />
+  </div>
+  <div style="display: flex; align-items: center;">
+    <!-- Top Languages -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=orkunaktas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="180" alt="languages graph" />
+  </div>
+</div>
 
-<a href="[Your LinkedIn URL]" target="_blank"><img width="100%" src="[Your Banner Image URL]"></a>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="43" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="43" alt="csharp logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="43" alt="microsoftsqlserver logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="43" alt="numpy logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="43" alt="pandas logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="43" alt="matlab logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="43" alt="jupyter logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="43" alt="figma logo" />
+</div>
 
-## 🔗 Quick Links
-[**[Portfolio](Your Portfolio URL)**]
-[**[Blog](Your Blog URL)**]
-[**[Resume](Your Resume URL)**]
-
-## 🤝 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](Your LinkedIn URL)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](Your Twitter URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-## 💻 Tech Stack
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-<!-- Add more relevant tech stack badges -->
-
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-
-## 🏆 Featured Projects
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=Project1)](https://github.com/YourGitHubUsername/Project1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=Project2)](https://github.com/YourGitHubUsername/Project2)
-
-## 📈 Contribution Graph
-![Your GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=YourGitHubUsername&theme=github)
-
-## 🌟 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername)
-
----
-
-<p align="center">
-  <i>Let's connect and collaborate!</i>
-  <br>
-  <i>Open to opportunities and interesting projects</i>
-</p>
+<img src="https://raw.githubusercontent.com/orkunaktas/orkunaktas/output/snake.svg" alt="Snake animation" />

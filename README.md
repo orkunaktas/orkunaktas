@@ -1,5 +1,17 @@
 <h1 align="left">Hi! I'm Orkun</h1>
 <div align="left">
+
+    <!-- Second row with GIF and Languages -->
+  <div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 20px;">
+    <!-- GIF -->
+    <div style="border: 2px solid #ccc; padding: 10px;">
+      <img src="https://y.yarn.co/1bf4f0a9-5ba2-46b2-91e5-ee2256bca74d_text.gif" width="100%" alt="GIF" />
+    </div>
+    <!-- Top Languages -->
+    <div style="border: 2px solid #ccc; padding: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=orkunaktas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" width="100%" alt="languages graph" />
+    </div>
+  </div>
   <!-- First row with GitHub Stats and Streak Stats -->
   <div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 20px; margin-bottom: 20px;">
     <!-- GitHub Stats -->
@@ -12,17 +24,7 @@
     </div>
   </div>
 
-  <!-- Second row with GIF and Languages -->
-  <div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 20px;">
-    <!-- GIF -->
-    <div style="border: 2px solid #ccc; padding: 10px;">
-      <img src="https://y.yarn.co/1bf4f0a9-5ba2-46b2-91e5-ee2256bca74d_text.gif" width="100%" alt="GIF" />
-    </div>
-    <!-- Top Languages -->
-    <div style="border: 2px solid #ccc; padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=orkunaktas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" width="100%" alt="languages graph" />
-    </div>
-  </div>
+
 </div>
 
 <div align="left">

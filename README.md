@@ -8,6 +8,9 @@
     </div>
     <!-- Top Languages -->
     <div style="border: 2px solid #ccc; padding: 10px;">
+      <img src="https://streak-stats.demolab.com?user=orkunaktas&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" width="100%" alt="streak graph" />
+    </div>
+    <div style="border: 2px solid #ccc; padding: 10px;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=orkunaktas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" width="100%" alt="languages graph" />
     </div>
   </div>
@@ -18,9 +21,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=orkunaktas&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&custom_title=GitHub%20Stats" width="100%" alt="stats graph" />
     </div>
     <!-- Streak Stats -->
-    <div style="border: 2px solid #ccc; padding: 10px;">
-      <img src="https://streak-stats.demolab.com?user=orkunaktas&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" width="100%" alt="streak graph" />
-    </div>
+    
   </div>
 
 

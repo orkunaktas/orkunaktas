@@ -1,8 +1,7 @@
-<img src="ascii_orkun.png" width="300">
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=orkunaktas.orkunaktas">
-<div style="border: 2px solid #ccc; padding: 10px;">
-      <img src="https://y.yarn.co/1bf4f0a9-5ba2-46b2-91e5-ee2256bca74d_text.gif" width="100%" alt="GIF" />
-    </div>
+<div style="display: flex; align-items: center; gap: 20px; width: 100%; padding: 20px;">
+  <img src="ascii_orkun.png" style="height: 300px; width: auto; object-fit: contain;" />
+  <img src="https://y.yarn.co/1bf4f0a9-5ba2-46b2-91e5-ee2256bca74d_text.gif" style="height: 300px; width: 500px; object-fit: cover;" />
+</div>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Orkun+AKTAŞ....;Data+Scientist+&+Algorithmic+Trader&center=true&size=30">

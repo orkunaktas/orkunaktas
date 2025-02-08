@@ -6,11 +6,6 @@
   </a>
 </h1>
 
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/[LINKEDIN_PROFILINIZ]/" title="LinkedIn"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="mailto:orkunaktas2003@gmail.com" title="Email"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"> Email</a></code>
-</h5>
-
 <br>
 <p align="center">
   Hi, I'm Orkun AKTAŞ, Data Scientist & Algorithmic Trader from Turkey
@@ -24,7 +19,6 @@
   <br>
   📫 Reach me: <a href="mailto:orkunaktas2003@gmail.com">orkunaktas2003@gmail.com</a>
 </p>
-
 
 <hr>
 
@@ -64,3 +58,4 @@
 </p>
 <hr>
 
+<img src="https://raw.githubusercontent.com/orkunaktas/orkunaktas/output/snake.svg" alt="Snake animation" />

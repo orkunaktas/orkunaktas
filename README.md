@@ -67,13 +67,18 @@
 <h2 align="center">👨‍💻 Projects 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/orkunaktas/Financial-Analysis" title="Financial Analysis"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=orkunaktas&repo=Financial-Analysis&theme=dark&hide_border=true"></a>
-  <a align="right" href="https://github.com/orkunaktas/Algorithmic-Trading" title="Algorithmic Trading"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=orkunaktas&repo=Algorithmic-Trading&theme=dark&hide_border=true"></a>
+  <a align="left" href="https://github.com/orkunaktas/Wine-Quality-Prediction" title="Wine Quality Prediction"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=orkunaktas&repo=Wine-Quality-Prediction&theme=dark&hide_border=true"></a>
+  <a align="right" href="https://github.com/orkunaktas/Football-Betting-Odds" title="Football Betting Odds"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=orkunaktas&repo=Football-Betting-Odds&theme=dark&hide_border=true"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/orkunaktas/Football-Analytics" title="Football Analytics"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=orkunaktas&repo=Football-Analytics&theme=dark&hide_border=true"></a>
-  <a align="right" href="https://github.com/orkunaktas/Forex-Prediction-Models" title="Forex Prediction Models"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=orkunaktas&repo=Forex-Prediction-Models&theme=dark&hide_border=true"></a>
+  <a align="left" href="https://github.com/orkunaktas/EURO-2024-Turkey" title="EURO 2024 Turkey Analysis"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=orkunaktas&repo=EURO-2024-Turkey&theme=dark&hide_border=true"></a>
+  <a align="right" href="https://github.com/orkunaktas/Efficiency-Analysis" title="Efficiency Analysis"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=orkunaktas&repo=Efficiency-Analysis&theme=dark&hide_border=true"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/orkunaktas/Stock-Market" title="Stock Market Analysis"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=orkunaktas&repo=Stock-Market&theme=dark&hide_border=true"></a>
+  <a align="right" href="https://github.com/orkunaktas/xg-model" title="XG Model"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=orkunaktas&repo=xg-model&theme=dark&hide_border=true"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 

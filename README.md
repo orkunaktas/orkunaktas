@@ -1,48 +1,82 @@
-<h1 align="left">Hi! I'm Orkun</h1>
-<div align="left">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=orkunaktas.orkunaktas">
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 20px;">
-    <!-- GIF -->
-    <div style="border: 2px solid #ccc; padding: 10px;">
-      <img src="https://y.yarn.co/1bf4f0a9-5ba2-46b2-91e5-ee2256bca74d_text.gif" width="100%" alt="GIF" />
-    </div>
-    <!-- Top Languages -->
-    <div style="border: 2px solid #ccc; padding: 10px;">
-      <img src="https://streak-stats.demolab.com?user=orkunaktas&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" width="100%" alt="streak graph" />
-    </div>
-    <div style="border: 2px solid #ccc; padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=orkunaktas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" width="100%" alt="languages graph" />
-    </div>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Orkun+AKTAŞ....;Data+Scientist+and+Algorithmic+Trader&center=true&size=30">
+  </a>
+</h1>
+
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/your-linkedin-profile/" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="mailto:orkunaktas2003@gmail.com" title="Email"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"> Email</a></code>
+</h5>
+<br>
+<p align="center">
+  Hi, I'm Orkun AKTAŞ, a <strong>Data Scientist</strong> and <strong>Algorithmic Trader</strong> from Turkey.
+  <br>
+  <br>
+  🔬 I specialize in <strong>financial analysis</strong>, <strong>algorithmic trading</strong>, and <strong>sports analytics</strong>.
+  <br>
+  💹 I have expertise in <strong>forex</strong>, <strong>algorithmic trading strategies</strong>, and <strong>financial modeling</strong>.
+  <br>
+  ⚽ I also work on <strong>football analytics</strong> and develop algorithms for sports data.
+  <br>
+  💻 I love writing code and solving complex problems using data-driven approaches.
+  <br>
+  📫 How to reach me: <a href="mailto:orkunaktas2003@gmail.com">orkunaktas2003@gmail.com</a>
+</p>
+
+<hr>
+<h2 align="center">🔥 Skills & Tools 🔥</h2>
+<br>
+<p align="center">
+  <code><img title="Python" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
+  <code><img title="Pandas" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"></code>
+  <code><img title="NumPy" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"></code>
+  <code><img title="Machine Learning" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"></code>
+  <code><img title="SQL" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
+  <code><img title="Git" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
+  <code><img title="Jupyter" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
+</p>
+<hr>
+
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=orkunaktas&theme=dark&hide_border=true" alt="orkunaktas" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=orkunaktas&show_icons=true&theme=dark&hide_border=true" />
+    </a>
   </div>
-  <!-- First row with GitHub Stats and Streak Stats -->
-  <div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 20px; margin-bottom: 20px;">
-    <!-- GitHub Stats -->
-    <div style="border: 2px solid #ccc; padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=orkunaktas&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&custom_title=GitHub%20Stats" width="100%" alt="stats graph" />
-    </div>
-    <!-- Streak Stats -->
-    
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orkunaktas&theme=dark&hide_border=true&layout=compact&langs_count=8" />
+    </a>
   </div>
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=orkunaktas&theme=dark&hide_border=true" width="100%"/>
+</p>
 
+<hr>
 
+<h2 align="center">👨‍💻 Projects 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/orkunaktas/Financial-Analysis" title="Financial Analysis"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=orkunaktas&repo=Financial-Analysis&theme=dark&hide_border=true"></a>
+  <a align="right" href="https://github.com/orkunaktas/Algorithmic-Trading" title="Algorithmic Trading"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=orkunaktas&repo=Algorithmic-Trading&theme=dark&hide_border=true"></a>
 </div>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="43" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="43" alt="csharp logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="43" alt="microsoftsqlserver logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="43" alt="numpy logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="43" alt="pandas logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="43" alt="matlab logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="43" alt="jupyter logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="43" alt="figma logo" />
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/orkunaktas/Football-Analytics" title="Football Analytics"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=orkunaktas&repo=Football-Analytics&theme=dark&hide_border=true"></a>
+  <a align="right" href="https://github.com/orkunaktas/Forex-Prediction-Models" title="Forex Prediction Models"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=orkunaktas&repo=Forex-Prediction-Models&theme=dark&hide_border=true"></a>
 </div>
+<br/><br/><br/><br/><br/><br/>
 
-<img src="https://raw.githubusercontent.com/orkunaktas/orkunaktas/output/snake.svg" alt="Snake animation" />
+<h4 align="center">
+  <a href="https://github.com/orkunaktas?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>

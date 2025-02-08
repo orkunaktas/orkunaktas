@@ -95,24 +95,24 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/orkunaktas/Football-Betting-Odds" title="Football-Betting-Odds"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=orkunaktas&repo=Football-Betting-Odds&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/orkunaktas/Wine-Quality-Prediction" title="Wine Quality Prediction"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=orkunaktas&repo=Wine-Quality-Prediction&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/orkunaktas/Football-Betting-Odds" title="Football Betting Odds"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=orkunaktas&repo=Football-Betting-Odds&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/orkunaktas/EURO-2024-Turkey" title="EURO 2024 Analysis"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=orkunaktas&repo=EURO-2024-Turkey&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/orkunaktas/Efficiency-Analysis" title="Efficiency Analysis"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=orkunaktas&repo=Efficiency-Analysis&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/javascript-minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/orkunaktas/Stock-Market" title="Stock Market Analysis"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=orkunaktas&repo=Stock-Market&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/orkunaktas/xg-model" title="XG Prediction Model"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=orkunaktas&repo=xg-model&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
 <h4 align="center">
-  <a href="https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/orkunaktas?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
-
 
 <!--
 **zumrudu-anka/zumrudu-anka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

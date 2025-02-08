@@ -1,5 +1,4 @@
-![ASCII Art](ascii_orkun.png)
-<img src="ascii_orkun.png" width="400">
+<img src="ascii_orkun.png" width="300">
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=orkunaktas.orkunaktas">
 
 <h1 align="center">

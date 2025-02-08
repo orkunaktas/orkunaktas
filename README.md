@@ -41,7 +41,7 @@
 </p>
 <hr>
 
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
   <div align=center>
@@ -64,7 +64,7 @@
 
 <hr>
 
-<h2 align="center">👨‍💻 Projects 👨‍💻</h2>
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/orkunaktas/Wine-Quality-Prediction" title="Wine Quality Prediction"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=orkunaktas&repo=Wine-Quality-Prediction&theme=dark&hide_border=true"></a>

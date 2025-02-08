@@ -41,16 +41,16 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=orkunaktas&theme=dark&hide_border=true&background=0D1117">
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=orkunaktas&theme=rea&hide_border=true&background=0D1117">
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=orkunaktas&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=orkunaktas&show_icons=true&theme=rea&hide_border=true&include_all_commits=true&count_private=true">
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orkunaktas&layout=compact&theme=dark&hide_border=true&langs_count=8&card_width=320">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orkunaktas&layout=compact&theme=rea&hide_border=true&langs_count=8&card_width=320">
     </a>
   </div>
   <br>
